@@ -1,0 +1,5 @@
+- 从2017.9.19起，每天搜集1000条微博 （id, username, created_at,text）
+- 对text做词频分析
+- 对text做情感分析
+- 被转发量最大的账户和tweet
+- 查还有什么text analysis的方法
