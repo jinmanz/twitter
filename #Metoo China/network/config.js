@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"","author":"","fileName":"network.pdf","bounds":[[909,1286]],"bookmarks":[],"thumbnailType":"jpg","pageType":"svg","pageLabels":[]};
